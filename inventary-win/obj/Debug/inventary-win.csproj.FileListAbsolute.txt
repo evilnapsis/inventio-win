@@ -1,0 +1,8 @@
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\bin\Debug\inventary-win.exe
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\bin\Debug\inventary-win.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventary_win.Form1.resources
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventary_win.Properties.Resources.resources
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventary-win.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventary-win.exe
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventary-win.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventary_win.newProduct.resources
